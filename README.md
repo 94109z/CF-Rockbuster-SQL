@@ -7,4 +7,4 @@ Rockbuster Stealth LLC is a movie rental company planning to open the online vid
 
 ## Data
 
-The data was provided careerfoundry. [Data](https://images.careerfoundry.com/public/courses/data-immersion/A3/E3.1%20/actor.csv)
+The data was provided careerfoundry. [Data]([)](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
